@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://test-ghost-blog-1.herokuapp.com",
+    "contentApiKey": "72f30cec43f801f8314c08b84d"
+  },
+  "production": {
+    "apiUrl": "https://test-ghost-blog-1.herokuapp.com",
+    "contentApiKey": "72f30cec43f801f8314c08b84d"
+  }
+}
